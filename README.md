@@ -38,7 +38,7 @@ To ensure the model is reliable and ready for production, strict data science be
 ## How to Run
 
 1. Clone this repository:
-git clone https://github.com/your-username/Telco-Churn-Optimization.git
+git clone https://github.com/Mohammadhkabiri/Cost-Sensitive-Churn-Prediction.git
 
 2. Install the required dependencies:
 pip install pandas numpy scikit-learn matplotlib seaborn
